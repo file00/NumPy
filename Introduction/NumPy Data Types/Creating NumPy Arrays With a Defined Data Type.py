@@ -1,4 +1,5 @@
 # Creating NumPy Arrays With a Defined Data Type
+
 import numpy as np
 
 # create an array of 8-bit integers
